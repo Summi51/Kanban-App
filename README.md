@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Vercel Deploy Link - https://kanban-main-blond.vercel.app/ 
+
+## Screenshort 
+
+<img width="1392" alt="Screenshot 2024-10-23 at 1 16 37 AM" src="https://github.com/user-attachments/assets/4850ca25-574f-45bd-9159-902f7a3670d4">
+
 ## Available Scripts
 
 In the project directory, you can run:
